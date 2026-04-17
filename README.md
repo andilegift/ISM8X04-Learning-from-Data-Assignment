@@ -15,7 +15,6 @@ The goal of this project was to prepare the Titanic dataset for potential machin
 
 ## Files in this Repository
 - `Titanic_EDA_Assignment.ipynb`: The Jupyter notebook containing all the Python code for the analysis, from data loading to final imputation.
-- `Report.pdf`: The final written report detailing the methodology, findings, and justifications for each step of the analysis.
 - `titanic-dataset.csv`: The original dataset used for this project.
 
 ## Key Libraries Used
