@@ -36,4 +36,4 @@ The goal of this project was to prepare the Titanic dataset for potential machin
 This project successfully demonstrates a structured and robust workflow for data preprocessing, a critical step in any data science pipeline. The Titanic dataset was thoroughly analyzed and transformed into a clean, analysis-ready format, ready for use in predictive modeling tasks.
 
 ## Author
-**Andile Gift Shabalala**
+[**Andile Gift Shabalala**](https://www.linkedin.com/in/andile-gift-shabalala-2345bb313/)
